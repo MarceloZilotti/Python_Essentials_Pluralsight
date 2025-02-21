@@ -1,5 +1,5 @@
 # Python_Essentials_Pluralsight
-Practical Exercises from "Python Essentials" by Pluralsight
+Practical Exercises from "Python Essentials" by Pluralsight.com
 
 
 # 🐍 Python Essentials - Pluralsight Exercises
